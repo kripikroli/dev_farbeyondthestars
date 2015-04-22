@@ -10,7 +10,7 @@ Over the past year I’ve managed to build a business working an average of 2 ho
 <p>
 When you make slight behavioral modifications like turning off e-mail and focusing on what is important for your business, it’s amazing what you can accomplish.
 <p>
-Minimalist Workday outlines 50 strategies that I use to keep my workday at a comfortable 2 hours a day. This way I can dedicate more time to research, travel, self-improvement, cooking good food, yoga, and helping others.
+Minimalist Workday outlines 50 strategies that I use to keep my workday at a comfortable 2 hours a day instead of the <a href="http://www.runtogold.com/fourhourworkweekbook" title="Great book on productivity." target="_blank">The 4-Hour Work Week</a> that Tim Ferris writes about. This way I can dedicate more time to research, travel, self-improvement, cooking good food, yoga, and helping others.
 <p>
 This started as a blog post, but spiraled out of control. The e-book is around 5,000 words, over the course of 30 pages. I hope that it helps you.
 <p>
