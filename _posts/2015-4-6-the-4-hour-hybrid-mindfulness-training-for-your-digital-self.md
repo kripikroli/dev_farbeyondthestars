@@ -24,7 +24,7 @@ Well, I want to add one more to that list, the digital body. I’m sure the yogi
 <p>
 The digital self is very close to the idea of the energetic self. Except, it’s not running under the body, it’s running in the etherspace –the cloud, the network of fiberoptic and wireless conduits that are stitching the world tighter and tighter together.
 <p>
-Just like you have to keep your physical body healthy with eating your veggies, you have to keep your digital body healthy by not allowing it be overcome by empty-calorie noise.
+Just like you have to keep your physical body healthy with eating your veggies, you have to keep your digital body healthy by not allowing it be overcome by empty-calorie noise. Tim Ferris discusses an Information Diet in <a href="http://www.runtogold.com/fourhourworkweekbook" title="Great book on productivity." target="_blank">The 4-Hour Work Week</a>
 <p>
 As the digital body grows in power, this becomes ever more important.
 <p>
@@ -142,4 +142,4 @@ These are affiliate links, if you buy these you’ll support my work too.
 <p>
 2. Tyler Tervooren released an e-course titled Guerilla Influence Formula, which teaches you how to find your 1,000 True Fans on the Internet. It also comes with a 1,000 True Fans guarantee, so if you fail you can get your money back. I contributed a video interview to this, as did many other successful bloggers. This is highly recommended.
 <p>
-3. Timothy Ferriss’s epic new book about becoming superhuman, The 4-Hour Body just hit stores and Amazon today. Tim didn’t send me a promo copy, so I’m going to grab a copy today. I’m sure it’s epic. I’ll let you know what I think when I finish it.
+3. Timothy Ferriss’s epic new book about becoming superhuman, Timothy Ferriss’s <a href="http://www.runtogold.com/fourhourworkweekbook" title="Great book on productivity." target="_blank">The 4-Hour Body</a> just hit stores and Amazon today. Tim didn’t send me a promo copy, so I’m going to grab a copy today. I’m sure it’s epic. I’ll let you know what I think when I finish it.
