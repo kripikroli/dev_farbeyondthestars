@@ -6,7 +6,7 @@ published: true
 
 This is the first of a three part series on using minimalism to leave your day job in order to live and work anywhere.
 <p>
-If you’ve been following this blog long, or read The Art of Being Minimalist, you know that I left my job last August in order to launch my minimalist business and live and work from anywhere.
+If you’ve been following this blog long, or read Timothy Ferriss’s <a href="http://www.runtogold.com/fourhourworkweekbook" title="Great book on productivity." target="_blank">4 Hour Workweek</a>, then you know that I left my job last August in order to launch my minimalist business and live and work from anywhere.
 <p>
 If you’re in a situation like I was a year ago, –the monotonous repetitive days, the future of my creativity rapidly dying,– I imagine you want to do this too.
 <p>
@@ -158,7 +158,7 @@ Chris Guillebeau’s Unconventional Guide to Working for Yourself.
 <p>
 Pam Slim’s book Escape from Cubicle Nation.
 <p>
-Timothy Ferriss’s The 4 Hour Work Week.
+Timothy Ferriss’s <a href="http://www.runtogold.com/fourhourworkweekbook" title="Great book on productivity." target="_blank">4 Hour Workweek</a>.
 <p>
 –
 <p>
