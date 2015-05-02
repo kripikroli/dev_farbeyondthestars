@@ -8,4 +8,6 @@ permalink: /about/
 
 You are both the dreamer and the dream.
 
-### Contact
+### Contribute
+
+You can easily contribute to this project on <a href="https://github.com/sunnankar/farbeyondthestars">Github</a>. We look forward to pull requests.
