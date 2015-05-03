@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to achieve complete autonomy: Zombie hunting 101
+title: How to achieve complete autonomy | Zombie hunting 101
 published: true
 ---
 
