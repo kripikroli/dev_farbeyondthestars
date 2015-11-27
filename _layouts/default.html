@@ -28,7 +28,6 @@
           </div>
 
           <nav>
-          {% include social-shares.html %}
           <p><a href="{{ site.baseurl }}/about">About</a> | <a href="{{ site.baseurl }}/health">Health</a> | <a href="{{ site.baseurl }}/wealth">Wealth</a> | <a href="{{ site.baseurl }}/experiences">Experiences</a> | <a href="{{ site.baseurl }}/relationships">Relationships</a>
           </nav>
         </header>
@@ -36,6 +35,7 @@
     </div>
 
     <div id="main" role="main" class="container">
+	  {% include share-page.html %}
       {{ content }}
       {% include long-banner.html %}
     </div>
