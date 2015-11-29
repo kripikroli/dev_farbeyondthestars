@@ -15,6 +15,8 @@ published: true
 <center><iframe width="700" height="525" src="https://www.youtube.com/embed/HE85fk28btI" frameborder="0" allowfullscreen></iframe></center>
 <p><a href="http://www.runtogold.com/ta65">TA-65</a> is a telomerase activation product created by TA Sciences. Dr. Ed Parks is the world's leading expert on telomerase activation and has written <b><a href="http://www.runtogold.com/telomeretimebombs">Telomere Timebombs</a></b>.
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/4IasoJuTxnc" frameborder="0" allowfullscreen></iframe></center>
+<p><a href="http://www.runtogold.com/telomeraserevolution">The Telomerase Revolution</a> by Michael Fossel, M.D., PhD, is another excellent book on the subject.
+<center><iframe width="700" height="525" src="https://www.youtube.com/embed/zOaZjkyYlPs" frameborder="0" allowfullscreen></iframe></center>
 <h2>Research Summary</h2>
 <p>Based on most of the research it appears that the <b>best bio-hack</b> is to take four capsules nightly with a small fatty snack like chocolate or ice cream for at least the first year.
 <p>During the first year it seems that this has had an effect of about +450 Median Telomere Length and -1.01% of the percentage of critically short telomeres. During the second year the result is only +67 and -0.25%.
