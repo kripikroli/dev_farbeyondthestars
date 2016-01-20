@@ -1,1 +1,58 @@
-<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&t={{ page.title }}" title="Share on Facebook" target="_blank"><img src="/images/Facebook.png"></a> <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=FarBeyonDaStars" target="_blank" title="Tweet"><img src="/images/Twitter.png"></a> <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}&text={{ page.title }}" target="_blank" title="Share on Google+"><img src="/images/Google+.png"></a>
+<div class="social-shares">
+	<a
+		href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=Far Beyond The Stars"
+		onclick='window.open("https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=Far Beyond The Stars", "shareWindow", "height=280,width=700"); return false;'
+		target="_blank"
+		title="Tweet"
+		class="social-button twitter">
+		<i class="svg-icon twitter-flat"></i>
+	</a>
+	<a
+		href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&t={{ page.title }}"
+		onclick='window.open("https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&t={{ page.title }}", "shareWindow", "height=600,width=600"); return false;'
+		title="Share on Facebook"
+		target="_blank"
+		class="social-button facebook">
+		<i class="svg-icon facebook-flat"></i>
+	</a>
+	<a
+		href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}&text={{ page.title }}"
+		onclick='window.open("https://plus.google.com/share?url={{ site.url }}{{ page.url }}&text={{ page.title }}", "shareWindow", "height=620,width=500"); return false;'
+		target="_blank"
+		title="Share on Google+"
+		class="social-button googleplus">
+		<i class="svg-icon googleplus-flat"></i>
+	</a>
+	<!--
+	<a
+		href="mailto:?subject={{ page.title }}&body={{ page.title }} - {{ site.url }}{{ page.url }} via Far Beyond The Stars"
+		target="_blank"
+		title="Share via Email"
+		class="social-button email">
+		<i class="svg-icon email-flat"></i>
+	</a>
+	<a
+		href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&source=Far Beyond The Stars"
+		onclick='window.open("https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&source=Far Beyond The Stars", "shareWindow", "height=620,width=500"); return false;'
+		target="_blank"
+		title="Share on LinkedIn"
+		class="social-button linkedin">
+		<i class="svg-icon linkedin-flat"></i>
+	</a>
+	<!--<a
+		href="http://pinterest.com/pin/create/button/?url={URI-encoded URL of the page to pin}&media={URI-encoded URL of the image to pin}"
+		onclick="return false;"
+		target="_blank"
+		title="Share on Pinterest"
+		class="social-button pinterest">
+		<i class="svg-icon pinterest-flat"></i>
+	</a>
+	<a
+		href="http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}"
+		onclick='window.open("http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}", "shareWindow", "height=800,width=1000"); return false;',
+		target="_blank"
+		title="Share on Reddit"
+		class="social-button reddit">
+		<i class="svg-icon reddit-flat"></i>-->
+	</a>
+</div>

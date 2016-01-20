@@ -1,0 +1,139 @@
+// Modify how much the color lightens / darkens.
+$modify-percentage: 10%;
+
+// The colors for the brands (buttons).
+$color-twitter: #55acee;
+$color-googleplus: #dc4e41;
+$color-facebook: #3b5998;
+$color-reddit: lighten(#336699, $modify-percentage * 2);
+$color-linkedin: #0077b5;
+$color-pinterest: #bd081c;
+$color-email: $color-googleplus;
+
+.social-shares {
+	position: fixed;
+	top: 0;
+	right: 0;
+	opacity: 0.7;
+	-webkit-filter: grayscale(60%);
+	filter: grayscale(60%);
+	transition: -webkit-filter 0.5s, filter 0.5s, opacity 0.5s;
+
+	&:hover {
+		opacity: 1;
+		-webkit-filter: grayscale(0%);
+		filter: grayscale(0%);
+	}
+
+	.svg-icon {
+		width: 30px;
+		height: 30px;
+		vertical-align: text-bottom;
+	}
+
+	.social-button {
+		width: 45px;
+		height: 40px;
+		display: inline-block;
+		margin-left: -5px;
+		text-align: center;
+		padding: 5px;
+		font-size: 14px;
+		color: #FFF;
+
+		&.facebook {
+			background-color: $color-facebook;
+
+			.social-button-count {
+				background-color: darken($color-facebook, $modify-percentage);
+			}
+
+			&:hover {
+				background-color: lighten($color-facebook, $modify-percentage);
+			}
+		}
+
+		&.twitter {
+			background-color: $color-twitter;
+
+			.social-button-count {
+				background-color: darken($color-twitter, $modify-percentage);
+			}
+
+			&:hover {
+				background-color: lighten($color-twitter, $modify-percentage);
+			}
+		}
+
+		&.googleplus {
+			background-color: $color-googleplus;
+
+			.social-button-count {
+				background-color: darken($color-googleplus, $modify-percentage);
+			}
+
+			&:hover {
+				background-color: lighten($color-googleplus, $modify-percentage);
+			}
+		}
+
+		&.reddit {
+			background-color: $color-reddit;
+
+			.social-button-count {
+				background-color: darken($color-reddit, $modify-percentage);
+			}
+
+			&:hover {
+				background-color: lighten($color-reddit, $modify-percentage);
+			}
+		}
+
+		&.linkedin {
+			background-color: $color-linkedin;
+
+			.social-button-count {
+				background-color: darken($color-linkedin, $modify-percentage);
+			}
+
+			&:hover {
+				background-color: lighten($color-linkedin, $modify-percentage);
+			}
+		}
+
+		&.pinterest {
+			background-color: $color-pinterest;
+
+			.social-button-count {
+				background-color: darken($color-pinterest, $modify-percentage);
+			}
+
+			&:hover {
+				background-color: lighten($color-pinterest, $modify-percentage);
+			}
+		}
+
+		&.email {
+			background-color: $color-email;
+
+			.social-button-count {
+				background-color: darken($color-email, $modify-percentage);
+			}
+
+			&:hover {
+				background-color: lighten($color-email, $modify-percentage);
+			}
+		}
+	}
+
+	.social-button-count {
+		display: none;
+		vertical-align: middle;
+		min-width: 22px;
+		color: #FFF;
+		font-weight: bold;
+		font-size: 12px;
+		padding: 3px 5px;
+		border-radius: 80px;
+	}
+}

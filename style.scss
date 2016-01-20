@@ -37,6 +37,7 @@ body {
 }
 
 #main {
+  position: relative;
   max-width: 40em;
 }
 
@@ -174,15 +175,18 @@ img {
 .site-info {
   margin: 2.5% auto;
   margin-bottom: 5%;
-  font-size: 2em;
+
+  @include mobile(){
+    font-size: 0.75em;
+  }
 }
 
 .site-name {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-size: 2em;
   font-family: $font-display;
+  font-size: 4em;
   letter-spacing: 1px;
   line-height: 1;
 }
@@ -271,3 +275,4 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+@import "social-shares";
