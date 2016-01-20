@@ -21,6 +21,12 @@ body {
 	background: $white;
   font: 20px/1.4 $font-sans;
   color: $darkGray;
+  padding: 0px 5px;
+
+  @include mobile(){
+    font-size: 16px;
+    line-height: 1.2;
+  }
 }
 
 .container {
@@ -39,32 +45,29 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.7;
+  line-height: 1;
   margin: 1em 0 15px;
   padding: 0;
-
-  @include mobile {
-    line-height: 1.4;
-  }
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 1.5em;
+
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 1.2em;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 1.1em;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 1em;
   color: $gray;
 }
 
@@ -206,7 +209,7 @@ nav {
     display: inline-block;
     margin: 0;
     padding: 0 15px;
-    color: $darkGray; 
+    color: $darkGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
