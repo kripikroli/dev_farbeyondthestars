@@ -72,3 +72,10 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+defaults:
+  -
+    scope:
+      path: "_posts" # empty string for all files
+    values:
+      layout: "post"
