@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Health
 author: Far Beyond The Stars - Health
 authorurl: https://www.farbeyondthestars.com/health

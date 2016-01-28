@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Experiences
 author: Far Beyond The Stars - Experiences
 authorurl: https://www.farbeyondthestars.com/experiences

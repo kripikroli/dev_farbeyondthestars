@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Relationships
 author: Far Beyond The Stars - Relationships
 authorurl: https://www.farbeyondthestars.com/relationships
