@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Wealth
 author: Far Beyond The Stars - Wealth
 authorurl: https://www.farbeyondthestars.com/wealth
