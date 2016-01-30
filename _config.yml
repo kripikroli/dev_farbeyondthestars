@@ -76,6 +76,7 @@ exclude:
 defaults:
   -
     scope:
-      path: "_posts" # empty string for all files
+      path: ""
+      type: "posts"
     values:
       layout: "post"
