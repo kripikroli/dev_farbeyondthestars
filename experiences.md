@@ -4,6 +4,7 @@ title: Experiences
 author: Far Beyond The Stars - Experiences
 authorurl: https://www.farbeyondthestars.com/experiences
 published: true
+permalink: /experiences/
 ---
 
 Experiences are the third cornerstone that we build the rest of our optimal human existence upon.

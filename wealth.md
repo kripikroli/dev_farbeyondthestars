@@ -4,6 +4,7 @@ title: Wealth
 author: Far Beyond The Stars - Wealth
 authorurl: https://www.farbeyondthestars.com/wealth
 published: true
+permalink: /wealth/
 ---
 
 Wealth is the second cornerstone that we build the rest of our lives and experiences upon. Without wealth we must trade our time and attention to acquire the resources needed to enjoy life. Reducing one's expenses is a primary way of freeing up one's time and attention for more productive pursuits.
