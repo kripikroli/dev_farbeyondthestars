@@ -60,7 +60,7 @@ I wrote recently about the need to be completely unrealistic. You need to write 
 <p>
 Everything crazy has been done already, so you might as well do it again.
 <p>
-My goal was to become a minimalist in order to live and work from anywhere. It wasn’t nearly as hard as I thought it would be. My primary income source is this blog, which I never thought would happen this quickly — the income potential to earn money online is enormous. You can reach almost anyone.
+My goal was to become a minimalist in order to live and work from anywhere like with <a href="https://www.bitcoinmining.com/best-bitcoin-cloud-mining-contract-reviews/">bitcoin cloud mining</a>. It wasn’t nearly as hard as I thought it would be. My primary income source is this blog, which I never thought would happen this quickly — the income potential to earn money online is enormous. You can reach almost anyone.
 <p>
 Your dream doesn’t have to be about making money online, but you do need to have some sort of goal.
 <p>
