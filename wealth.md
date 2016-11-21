@@ -9,7 +9,7 @@ permalink: /wealth/
 
 <p>Wealth is the second cornerstone that we build the rest of our lives and experiences upon. Without wealth we must trade our time and attention to acquire the resources needed to enjoy life. Reducing one's expenses is a primary way of freeing up one's time and attention for more productive pursuits.
 <p>Wealth is the next cornerstone for building a life to go far beyond the stars. One tool for financial independence is passive income is highly sought after and often misunderstood.
-<p>Passive income streams usually require significant investment and nurturing in the beginning. But with diligence, creativity, efficiency and persistance these passive income streams begin to build and maintain themselves. An example is <a href="https://www.bitcoinmining.com">Bitcoin Mining</a> or other cryptocurrencies where you can learn more at <li><a href="https://www.weusecoins.com">We Use Coins</a></li>.
+<p>Passive income streams usually require significant investment and nurturing in the beginning. But with diligence, creativity, efficiency and persistance these passive income streams begin to build and maintain themselves. An example is <a href="https://www.bitcoinmining.com">Bitcoin Mining</a> or other cryptocurrencies where you can learn more at <a href="https://www.weusecoins.com">We Use Coins</a>.
 <p>Successfully cultivated passive income streams enables you to free up your time and attention to be used on awesome experiences and deep fulfilling relationships.
 
 ## Articles on Wealth
