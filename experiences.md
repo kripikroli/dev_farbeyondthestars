@@ -7,7 +7,9 @@ published: true
 permalink: /experiences/
 ---
 
-Experiences are the third cornerstone that we build the rest of our optimal human existence upon.
+<p>Experiences are the third cornerstone that we build the rest of our optimal human existence upon.
+<p>Once health and wealth are under control and serving your higher self then comes the opportunity for self development and personal realization.
+<p>This is where optimized human experiences come into play. Traveling, learning languages or instruments, playing sports or dancing, meditating and studying are all ways you can enter flow and have awesome experiences.
 
 ## Articles on Experiences
 <ul>
