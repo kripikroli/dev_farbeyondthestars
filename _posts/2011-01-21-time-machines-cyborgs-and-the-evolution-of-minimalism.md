@@ -27,9 +27,8 @@ The truth is that my work moves, it changes, it evolves. Your work does and
 will too.
 
 Unfortunately I can’t write simple posts about ultra-light travel anymore. If
-you want a great collection of those, [The Art of Being
-Minimalist](http://www.artofbeingminimalist.com/) really sums up how to go
-minimalist from the human perspective (though cyborg eyes will glaze over at
+you want a great collection of those, The Art of Being
+Minimalist really sums up how to go minimalist from the human perspective (though cyborg eyes will glaze over at
 this point when they read the content that I wrote a year ago.)
 
 My physical/mental/spiritual body has been evolving, it’s tapped into the
@@ -47,11 +46,8 @@ This didn’t happen because **cyborgs** wanted to become minimalists, it’s
 because we the **cyborgs** didn’t know who we were when we became minimalists.
 
 For eons humans only made physical tools, then all of a sudden we began to
-develop mental tools. This much is clear from [Amber Case’s brilliant Ted
-Talk](http://www.farbeyondthestars.com/time-machines-cyborgs-and-the-
-evolution-of-
-minimalism/www.ted.com/talks/amber_case_we_are_all_cyborgs_now.html) that you
-all should have watched by now.
+develop mental tools. This much is clear from Amber Case’s brilliant Ted
+Talk that you all should have watched by now.
 
 **Cyborgs** are simply humans who made the shift from physical tools to mental tools. Eventually there will be enough **cyborgs** that we can call them humans again, and we’ll call people who still use physical tools something else.
 
