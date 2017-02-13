@@ -14,8 +14,7 @@ life in the next year, then dedicate 8 weeks to building each habit. This
 gives you roughly 2 months to develop each habit in a year, and by the end of
 the year you’ve made 6 changes in your life.
 
-Well, it’s no secret that I’m a [big fan of Leo’s
-work](http://www.farbeyondthestars.com/?p=569). His approach to life often
+Well, it’s no secret that I’m a big fan of Leo’s work. His approach to life often
 aligns perfectly with my own.
 
 For those who aren’t familiar with Leo’s other blog, [Zen
@@ -23,9 +22,8 @@ Habits](http://www.zenhabits.net/), I suggest you check it out. It’s a
 brilliant blog on how to simplify your life and achieve your goals.
 
 You might have noticed that I’m giving away two copies of his ebook _[A Simple
-Guide to a Minimalist Life](http://www.farbeyondthestars.com/?page_id=709)_ on
-January 31st to two dedicated readers who [sign up for free email updates](htt
-p://feedburner.google.com/fb/a/mailverify?uri=FarBeyondTheStars&loc=en_US).
+Guide to a Minimalist Life](https://www.farbeyondthestars.com/how-to-blog-less-with-more-impact/)_ on
+January 31st to two dedicated readers.
 
 If you haven’t checked out Leo’s book on [being
 minimalist](http://zenhabits.net/2009/09/my-new-ebook-the-simple-guide-to-a
