@@ -114,8 +114,7 @@ These are so simple that anyone can do them. If these three things are boring
 you, you’re doing way more than most people, so give yourself a round of
 applause then start taking yoga classes every day until you can focus your
 subtle energy body on achieving world peace with the rest of us. Maybe you
-need to read an e-book on [regaining consciousness](https://www.e-junkie.com/e
-com/gb.php?cl=104005&c=ib&aff=118549)?
+need to read an e-book on regaining consciousness?
 
 **1\. Learn as much as you can.**
 
@@ -138,9 +137,7 @@ years.
 eng/kevin_kelly_on_the_next_5_000_days_of_the_web.html)
 
 There are of course thousands more. Some of them are really bad, you can tell
-in the first 30 seconds (for more on this read [Malcolm Gladwell’s _Blink_](ht
-tp://www.amazon.com/gp/product/0316010669?ie=UTF8&tag=theexpelife-20&linkCode=
-as2&camp=1789&creative=390957&creativeASIN=0316010669)) if you’re going to
+in the first 30 seconds (for more on this read Malcolm Gladwell’s if you’re going to
 hate them — just turn it off and move to the next. There’s no sense in
 consuming information that’s stupid or you already know.
 
