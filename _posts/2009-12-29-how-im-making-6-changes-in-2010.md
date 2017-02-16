@@ -83,7 +83,7 @@ I believe that I’d really enjoy the extra time in the morning to do yoga and
 then focus on creating incredibly useful content for Far Beyond The Stars.
 Having a healthy work
 
-**Build **[**anticipation**](http://6changes.com/post/296037328/anticipation)** for the change.**
+**Build ****anticipation**** for the change.**
 
 According to Leo’s 6 Changes philosophy, I’m not allowed to start exactly on
 the 1st of January. Start on New Years is just too dramatic, plus I’ll
@@ -100,8 +100,8 @@ help me with changes in habit, so I anticipate a good start.
 
 **The trigger for the first of my 6 Changes.**
 
-Leo’s 6 Changes philosophy [suggests using a
-trigger](http://6changes.com/post/288258857/triggers) to help you form a
+Leo’s 6 Changes philosophy suggests using a
+trigger to help you form a
 healthy habit (or kick a bad one.)
 
 For waking up early, the trigger is obviously the alarm. However, relying on
@@ -150,7 +150,7 @@ won’t be hard to get out of bed.
 **You must have accountability**
 
 One of the most important elements of Leo’s 6 Changes philosophy is
-[accountability](http://6changes.com/post/284561373/accountability). In order
+accountability. In order
 to develop a habit, there has to be peer pressure involved.
 
 Often I rely on self-motivation, which is sometimes successful.
