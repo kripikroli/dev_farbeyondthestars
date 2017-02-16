@@ -48,8 +48,7 @@ And then followed with:
 I think this approach is so incredibly important for **you**, and I, to
 understand.
 
-I can tell **you** to [burn your notebooks](http://www.farbeyondthestars.com
-/how-to-destroy-your-past-lives-starting-over/) all **you** want, in order to
+I can tell **you** to burn your notebooks all **you** want, in order to
 free creative energy, but **how are **you** going to know what it feels like
 until **you** **experience** it **yourself**?** The article I wrote on freeing
 **yourself** from your past lives was incredibly powerful for a lot of people,
@@ -92,9 +91,8 @@ If I told **you** that your wildest dream was possible, **would **you** really
 The human mindbody is incredible. It can convince **you** that **you** have
 great power. It can convince **you** that **you** have great worry. It can
 hold onto anything. The mind can give **you** a life of suffering or a life of
-joy. **You** really are the [decisive
-element](http://blog.gaiam.com/quotes/authors/johann-wolfgang-von-
-goethe-0/44385) in every situation. The work that we’re doing here, is very
+joy. **You** really are the decisive
+element in every situation. The work that we’re doing here, is very
 much an exercise in exploring how far we can push our minds into believing
 that we’re actually capable of living in a way that is important.
 
@@ -115,8 +113,7 @@ We have control over our minds.
 We have control over our bodies.  
 We have control over how we gain energy, lose energy, store energy and use
 energy.  
-We can also [control the minds of other people](https://www.e-junkie.com/ecom/
-gb.php?ii=835025&c=ib&aff=118549&cl=120311), consciously or unconsciously.
+We can also control the minds of other people, consciously or unconsciously.
 
 There are so many ways to do this, but most people don’t investigate them
 (yoga is one.) Instead they sit in front of the TV, mindlessly sucking up
