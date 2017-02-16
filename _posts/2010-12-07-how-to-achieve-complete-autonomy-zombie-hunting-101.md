@@ -3,9 +3,8 @@ title: How to Achieve Complete Autonomy - Zombie Hunting 101
 ---
 
 This is the second part in a series on some metaphors that I’ve been playing
-with in my head for awhile. If you missed the first part, it was [about the
-superhuman/drone divide](http://www.farbeyondthestars.com/superhumans-vs-
-drones-how-to-achieve-complete-autonomy/), this article is about **hunting**
+with in my head for awhile. If you missed the first part, it was about the
+superhuman/drone divide, this article is about **hunting**
 zombies (and avoiding being bitten).
 
 Every superhuman has their creation story. Whether it’s escaping the 9-5,
@@ -129,12 +128,10 @@ P.H.D.’s in awesomeness.
 Here are two of my favorite Ted talks right now, to get you closer to the same
 page as me.
 
-[A headset that reads your brainwaves](http://www.ted.com/talks/lang/eng/tan_l
-e_a_headset_that_reads_your_brainwaves.html) &lt;– we will have these in two
+A headset that reads your brainwaves &lt;– we will have these in two
 years.
 
-[Kevin Kelly on the next 5,000 days of the web](http://www.ted.com/talks/lang/
-eng/kevin_kelly_on_the_next_5_000_days_of_the_web.html)
+Kevin Kelly on the next 5,000 days of the web
 
 There are of course thousands more. Some of them are really bad, you can tell
 in the first 30 seconds (for more on this read Malcolm Gladwell’s if you’re going to
