@@ -34,8 +34,8 @@ to meld with, in person. **Facebook** wasn’t facilitating this for me, it was
 simply becoming a black hole where plans are made but never acted upon.
 
 Twitter does bring people together. The only reason I’m staying in Boulder CO
-at the moment and speaking on May 21st 2011 at [This is
-Mindful](http://thisismindful.com/) in Melbourne Australia is because of real
+at the moment and speaking on May 21st 2011 at This is
+Mindful in Melbourne Australia is because of real
 world interactions via Twitter.
 
 These days I can tweet in any city, or to any city, and things happen such as
@@ -148,8 +148,8 @@ Let’s make the leap into a world where we have control of our virtual worlds.
 [The Jonathan Harris Aiga talk is here](http://www.aiga.org/content.cfm/video-
 gain-2010-harris) if you have 36 minutes to watch beautifulness.
 
-Gwen wrote about her and Patrick’s [experience leaving and being moderate with
-**Facebook**](http://www.gwenbell.com/blog/2011/1/25/defanging-facebook.html)
+Gwen wrote about her and Patrick’s experience leaving and being moderate with
+**Facebook**
 here.
 
 Gwen and I recorded a video on the way to the coffee shop about [why we left
