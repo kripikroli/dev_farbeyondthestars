@@ -23,9 +23,8 @@ actual traffic to my site was negligible. This is because Facebook wants
 Facebookers to stay on Facebook where they can be shown ads and click ‘Like’
 on photos of girls/boys they will never sleep with.
 
-Regardless, all of the [smart people I know are leaving
-Facebook](http://www.farbeyondthestars.com/the-facebook-exodus-and-the-future-
-of-human-communication/) anyway.
+Regardless, all of the smart people I know are leaving
+Facebook anyway.
 
 **Blogging** needs two things to make it more successful as a platform:
 
