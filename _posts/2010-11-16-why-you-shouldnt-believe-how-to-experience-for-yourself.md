@@ -3,8 +3,8 @@ title: Why You Shouldn’t Believe (how to experience for yourself)
 ---
 
 As many of **you** know, for the last few weeks (and the next few) I’ve been
-studying yoga intensively at [Yoga to the People in San
-Francisco](http://yogatothepeople.com/sanfrancisco).
+studying yoga intensively at Yoga to the People in San
+Francisco.
 
 I’ve been learning a lot of things, many of which I can’t begin to convey in a
 way that would be understandable to **you** yet. Wisdom, knowledge, and
@@ -67,9 +67,8 @@ How does it feel to not have a home at all?
 
 How does it feel to swap out bacon egg and cheeses for breakfast fruit?
 
-How does it feel to make $27 ([or
-$2,300?](http://www.farbeyondthestars.com/2300-in-a-day-how-to-support-
-quality-work/)) of location-independent income?
+How does it feel to make $27 or
+$2,300? of location-independent income?
 
 All of these seem like really good ideas, theoretically. But they also could
 be really bad ideas in practice. But **you** just don’t know until **you** try
