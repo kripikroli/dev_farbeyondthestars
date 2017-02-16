@@ -49,8 +49,7 @@ reality) –especially out on the street where people will look at me like I’m
 weird.
 
 The only natural thing to do was to step into the Prana store on Pearl Street
-in Boulder and grab a pair of [climbing pants](http://www.prana.com/tangra-
-climbing-pant.html) ($54). They’re ultra-light, clean and dry easily, and also
+in Boulder and grab a pair of climbing pants ($54). They’re ultra-light, clean and dry easily, and also
 I can put my foot over my head if I want to in public places. Awesome!
 
 Goodbye Diesel Jeans! Hello new world!
