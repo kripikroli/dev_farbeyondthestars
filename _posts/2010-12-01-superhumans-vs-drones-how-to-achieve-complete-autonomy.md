@@ -31,7 +31,7 @@ This is how [Chris Guillebeau](http://www.chrisguillebeau.com/) makes his
 living. This is how [Tammy Strobel](http://www.rowdykittens.com/) makes her
 living. This is how [Colin Wright ](http://www.exilelifestyle.com/)and [Miles
 Fitzgerald](http://twitter.com/milesfitzgerald) are designing their startup
-[Ebookling](http://www.ebookling.com/), and how [Maren
+Ebookling, and how [Maren
 Kate](http://www.escapingthe9to5.com/) is designing her startup
 [Zirtual](http://www.zirtual.com/).
 
