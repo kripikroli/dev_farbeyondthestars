@@ -13,7 +13,7 @@ book by the same name, which I’m incredibly excited about.
 I won’t go into the fundamental details here, because those are Merlin’s
 domain.
 
-Check out [Merlin Mann’s guide to Inbox Zero](http://inboxzero.com/).
+Check out Merlin Mann’s guide to Inbox Zero.
 
 Here’s the basics for Inbox Zero, just in case you don’t have time to read
 Merlin’s stuff right now, or you just need a refresher coarse.
