@@ -25,9 +25,8 @@ You might have noticed that I’m giving away two copies of his ebook _[A Simple
 Guide to a Minimalist Life](https://www.farbeyondthestars.com/how-to-blog-less-with-more-impact/)_ on
 January 31st to two dedicated readers.
 
-If you haven’t checked out Leo’s book on [being
-minimalist](http://zenhabits.net/2009/09/my-new-ebook-the-simple-guide-to-a
--minimalist-life/), I highly recommend it.
+If you haven’t checked out Leo’s book on being
+minimalist, I highly recommend it.
 
 **I’m taking 6 Changes for a test drive after New Years.**
 
