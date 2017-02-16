@@ -14,7 +14,7 @@ On to the interview!
 
 **Everett Bogue:** _You’ve been blogging about being minimal for a number of years now, how has your approach to being a minimalist changed over that time?_
 
-**Chris Baskind**: I started writing [More Minimal](http://moreminimal.com/) back in 2006. To be honest, its take on minimalism was a little scattershot, but it lead me to building [Lighter Footstep](http://www.lighterfootstep.com/), a green website with a strong “use less, do-it-yourself” emphasis. If my approach has changed, it’s that minimalism — or simplicity, if you prefer the term — is now fundamental to how I look at everything. I still write about green and environmental topics, but these flow from my conviction that a more minimal lifestyle isn’t just necessary to restore balance to society: It’s a healthy and fulfilling way to live on its own merits.
+**Chris Baskind**: I started writing More Minimal back in 2006. To be honest, its take on minimalism was a little scattershot, but it lead me to building [Lighter Footstep](http://www.lighterfootstep.com/), a green website with a strong “use less, do-it-yourself” emphasis. If my approach has changed, it’s that minimalism — or simplicity, if you prefer the term — is now fundamental to how I look at everything. I still write about green and environmental topics, but these flow from my conviction that a more minimal lifestyle isn’t just necessary to restore balance to society: It’s a healthy and fulfilling way to live on its own merits.
 
 **Everett:** _Do you have any current minimalist goals?_
 
@@ -32,7 +32,7 @@ On to the interview!
 
 **Chris:** The big mind-shift is the first few times you use the bike to do something that would normally be car errands. There’s a real satisfaction when you realize your bike isn’t just a toy: it can get work done. You can do this on pretty much any bike that rolls, but I’m a big believer in being properly geared. Your bike should be safe and comfortable in any weather. That means going out and buying rain gear, proper lights so you’re not chained to daylight, racks and panniers so you can carry groceries, and tools, so you feel confident relying on your equipment. None of this stuff is cheap, but a full cycling kit only costs the equivalent of a couple car payments. Make the investment, and you’re more likely to ride.
 
-**Everett:** _In a recent post on More Minimal you wrote that we are [entering a minimalist century](http://moreminimal.com/2009/11/welcome-to-the-minimalist-century/). Can you describe how you came to that realization?_
+**Everett:** _In a recent post on More Minimal you wrote that we are entering a minimalist century. Can you describe how you came to that realization?_
 
 **Chris:** Every century brings change. The 20th century was all about BIG, particularly in the consumption of energy. Practically everything we think of as “progress” is predicated on the ready availability of cheap energy, which has so far meant fossil fuels. Our demand for energy and raw materials is beginning to exceed a very finite supply, and things simply cannot continue as they have. Sustainability isn’t a goal: it’s the law of nature.
 
