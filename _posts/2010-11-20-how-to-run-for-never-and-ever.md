@@ -92,8 +92,7 @@ living everywhere and anywhere.
 
 We’re the digital vagabonding generation, that much is certain.
 
-This [reality isn’t a fad](http://www.minimalistadventures.com/2010/11/20
-/saturday-soapbox-fad-shut-up/), it isn’t going to stop being the way we live.
+This reality isn’t a fad, it isn’t going to stop being the way we live.
 Freedom is a result of exotropy, and that’s been going on as long as the
 Universe has existed.
 
