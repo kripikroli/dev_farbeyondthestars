@@ -45,7 +45,7 @@ published: true
 <h2>Teeth Health</h2>
 <p><a href="http://www.runtogold.com/smartash">Smart Ash</a>, <a href="http://www.runtogold.com/desertessencetoothpaste">Desert Essence toothpaste</a> and <a href="http://www.runtogold.com/bambootoothbrush">bamboo toothbrushes</a> are all amazing. If you use Smart Ash then you may consider swallowing all of the activated charcoal instead of just spitting it out as it is a great detoxifier.
 <h2>The Power of the Mind</h2>
-<p>The mind is incredibly powerful. If you really want to figure out how to be superhuman then I would recommend learning from <a href="http://www.wimhoficeman.com">Wim Hof</a>. He baffles scientists and claims to have taken direct control over both his nervous and immune systems.
+<p>The mind is incredibly powerful. If you really want to figure out how to be superhuman then I would recommend learning from Wim Hof. He baffles scientists and claims to have taken direct control over both his nervous and immune systems.
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/XUQwFZ_xFdM" frameborder="0" allowfullscreen></iframe></center>
 <p>Also helpful is <a href="http://www.runtogold.com/transferfactorplus">Transfer Factor Plus</a> which is clinically proven to improve to boost NK cell activity a 437%. Think of it like intelligence for your killer cells; a force multiplier for effectiveness.
 <h2>Posts To Read</h2>
