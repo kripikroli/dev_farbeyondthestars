@@ -116,9 +116,8 @@ There are very real issues that we need to discuss or discover though. How do
 we deal with relationships in a location independent **world**? How can we
 develop more support systems for perpetual travelers? Is living this way for
 everyone, or just a small group of brave individuals? What will **our**
-generation look like when we suddenly all have [headsets that read **our** bra
-inwaves](http://www.ted.com/talks/lang/eng/tan_le_a_headset_that_reads_your_br
-ainwaves.html) (we will all have these in 3 years, I will write blog posts
+generation look like when we suddenly all have headsets that read **our** bra
+inwaves (we will all have these in 3 years, I will write blog posts
 with my brain)? These are all real questions, but I don’t have all the
 answers.
 
