@@ -99,13 +99,7 @@ Many of the best books I’ve read in the last year weren’t good because of th
 writing, they weren’t good because of the content, **these books were good
 because they retrained my mind** to think in a very specific beneficial way.
 
-Books like _[Think and Grow Rich](http://www.amazon.com/gp/product/1453890505?
-ie=UTF8&tag=theexpelife-20&linkCode=as2&camp=1789&creative=390957&creativeASIN
-=1453890505)_, _[The 4 Hour Workweek](http://www.amazon.com/gp/product/0307465
-357?ie=UTF8&tag=theexpelife-20&linkCode=as2&camp=1789&creative=390957&creative
-ASIN=0307465357)_, _[Tribes](http://www.amazon.com/gp/product/1591842336?ie=UT
-F8&tag=theexpelife-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1591
-842336)_ all show **you** that success isn’t a result, it’s a mindset.
+Books like _Think and Grow Rich_, _The 4 Hour Workweek_, _Tribes_ all show **you** that success isn’t a result, it’s a mindset.
 Happiness isn’t a quantification, it’s a mindset.
 
 We have control over our minds.  
@@ -150,9 +144,9 @@ Maybe it’s time to start working towards a reality that **you** can
 
 –
 
-If **you**’re trying to figure out how to do a good interview, [Nina Yau did
+If **you**’re trying to figure out how to do a good interview, Nina Yau did
 an incredibly good one with me
-here](http://castlesintheair.org/blog/2010/11/16/evbogue-interview/).
+here.
 
 –
 
