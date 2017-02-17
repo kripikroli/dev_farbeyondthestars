@@ -51,7 +51,7 @@ executors. [@rosshill](http://twitter.com/rosshill) is a big advocate and
 designer of these collectives. Essentially, your education begins to
 accelerate due to natural group interactions on Twitter. I’ll tweet an idea
 while @edwardharren
-[@janstewart](http://www.twitter.com/janstewart)
+@janstewart
 [@davidahood](http://twitter.com/davidahood) are asleep in Melbourne, and
 they’ll further the idea while I’m asleep in Boulder. Over Twitter we exchange
 ideas, articles, and books that are necessary for the work that interests us,
