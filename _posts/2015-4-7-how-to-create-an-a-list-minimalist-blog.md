@@ -104,6 +104,6 @@ published: true
 <p>I didn’t build an A-list minimalism blog overnight, I simply kept plodding in the right direction day after day, week after week, month after month. Eventually I got there!</p>
 <p>Focus on the important elements of blog design that I listed above, because chances are most of you aren’t doing the things that I listed above — and they’re simple. You shouldn’t be ignoring them.</p>
 <p>If you’re looking for a few newcomers to the minimalist blogging scene to add to your all star mastermind group, these three are doing a lot of things right.</p>
-<p>Nina Yau writes at <a href="http://castlesintheair.org/blog/">Castles in the Air</a>.</p>
+<p>Nina Yau writes at Castles in the Air.</p>
 <p>Mike Donghia writes at <a href="http://artofminimalism.com/">Art of Minimalism</a>.</p>
 <p>Robyn Divine writes at <a href="http://www.minimalistknitter.com/">Minimalist Knitter</a>.</p>
