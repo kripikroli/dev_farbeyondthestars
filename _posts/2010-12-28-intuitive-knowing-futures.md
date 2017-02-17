@@ -41,9 +41,8 @@ This could be as interesting as **knowing** that you need to go to New York
 two months before the reason why you decided to go to New York becomes readily
 apparent.
 
-Or, it could be as confusing as a feeling [you need to hop on a plane to have
-drinks](http://www.minimalistadventures.com/2010/12/27/digital-connectedness-
-transcending-minimalism/) with a bunch of people you met on the Internet in
+Or, it could be as confusing as a feeling you need to hop on a plane to have
+drinks with a bunch of people you met on the Internet in
 Chicago — just because you have a feeling that it’ll be one of the most
 important days in the future of your life.
 
