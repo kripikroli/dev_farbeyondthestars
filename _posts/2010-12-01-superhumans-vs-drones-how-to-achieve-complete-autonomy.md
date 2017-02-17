@@ -29,7 +29,7 @@ added to it.
 
 This is how [Chris Guillebeau](http://www.chrisguillebeau.com/) makes his
 living. This is how [Tammy Strobel](http://www.rowdykittens.com/) makes her
-living. This is how [Colin Wright ](http://www.exilelifestyle.com/)and [Miles
+living. This is how Colin Wrightand [Miles
 Fitzgerald](http://twitter.com/milesfitzgerald) are designing their startup
 Ebookling, and how [Maren
 Kate](http://www.escapingthe9to5.com/) is designing her startup
