@@ -24,9 +24,8 @@ advertising since the day **you** were born telling **you** that the only way
 Christmas would be a success was if **you** spent somewhere around $1,000 on
 gifts for people.
 
-Gallup estimates the average American [will spend $714 on Christmas
-gifts](http://www.gallup.com/poll/144506/November-Christmas-Spending-Estimate-
-Outpaces-2009.aspx) that no one actually needs this year. If **you** hadn’t
+Gallup estimates the average American will spend $714 on Christmas
+gifts that no one actually needs this year. If **you** hadn’t
 read this post, **you** probably would have spent way more. There’s no need to
 thank me yet, keep reading.
 
