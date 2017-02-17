@@ -7,7 +7,7 @@ _January 21st 2011. Boulder, CO. _
 I love Mars Dorian, and I laughed when he said [“What kind of pills did you
 slip into your muesli?”](http://www.marsdorian.com/2011/01/digital-persona/)
 the other day when we were Skyping. While Mars and I aren’t exactly
-[#ibcing](http://janstewart.com.au/ibc) yet, after the in-person Skype chat we
+#ibcing yet, after the in-person Skype chat we
 were way closer to being on the same page.
 
 It’s true, Far Beyond The Stars lately has been kind of well, far beyond the
