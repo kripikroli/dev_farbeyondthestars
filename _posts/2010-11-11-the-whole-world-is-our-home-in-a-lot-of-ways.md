@@ -36,8 +36,8 @@ to be professionals like their parents told them to. Now I see my generation
 as something entirely new. A class of people that never existed before. We’re
 Jack Kerouacs tapped into the 3G network.
 
-As [Colin Wright recently said in his interview with Nina
-Yau](http://castlesintheair.org/blog/2010/11/08/colinishisname/): “The
+As Colin Wright recently said in his interview with Nina
+Yau: “The
 **whole** **world** is my **home**, in a **lot** of **ways**.”
 
 **There have always been wanderers, but we’re different.**
