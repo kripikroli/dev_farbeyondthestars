@@ -1,5 +1,5 @@
 ---
-title: Why You Shouldn’t Believe (how to experience for yourself)
+title: Why You Shouldn’t Believe (how to experience for yourself) - Far Beyond The Stars
 ---
 
 As many of **you** know, for the last few weeks (and the next few) I’ve been
