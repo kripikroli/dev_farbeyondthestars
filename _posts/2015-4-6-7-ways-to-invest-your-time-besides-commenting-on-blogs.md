@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7 Ways To Invest Your Time Besides Commenting On Blogs
+title: 7 Ways To Invest Your Time Besides Commenting On Blogs - Far Beyond The Stars
 published: true
 ---
 
