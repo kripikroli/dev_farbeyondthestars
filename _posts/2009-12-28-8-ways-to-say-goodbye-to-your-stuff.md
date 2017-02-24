@@ -42,8 +42,8 @@ prisoner to your possessions.
 The time to make a change and overcome your slavery to the material world is
 now.
 
-**Here are a few simple methods that I’ve developed for people to learn to say goodbye to the objects that they love, but don’t use anymore.  
-**
+<h3>Here are a few simple methods that I’ve developed for people to learn to say goodbye to the objects that they love, but don’t use anymore.  </h3>
+
 
   1. **Create an outbox**. The simplest and easiest way to start a healthy habit towards your stuff is to create an outbox. Find a cardboard box and place it near a junk problem area. Just place one object after another into the box. Let the box sit for a month (or a week, but sometimes that can be painful.) Did you need to go back for any of the objects? Well, you probably don’t really need them. You can apply this outbox philosophy to any of the methods below.
   2. **Get a second opinion**. Sometimes it can help to get a friend to give a second opinion. Make sure this is someone who can impartial, someone who is not family or a significant other. Ask them to give you an honest opinion as you are sorting through your stuff. Ask them questions like ‘do you think this object is useful to me?’ and ‘do you think I will use this object in the next year?’ or ‘Do you think this old ratty lamp I’ve been saving since 1979 looks cool?’ This impartial person will give you an honest opinion, and this can give you the perspective you need to make the decision to free yourself of your belongings.
