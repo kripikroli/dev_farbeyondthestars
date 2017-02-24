@@ -1,5 +1,5 @@
 ---
-title: A Minimalist Approach to Washing the Dishes
+title: A Minimalist Approach to Washing the Dishes - Far Beyond The Stars
 ---
 
 Before I work on an important project with a person, I like to get a good look
