@@ -25,7 +25,7 @@ Think about simple, and achievable, ways that your can bring about this
 lifestyle. Making a small regular change is so much more effective than a huge
 impossible change.
 
-**Here are five ways to apply minimalism to your life in a small way.**
+<h2>Here are five ways to apply minimalism to your life in a small way.</h2>
 
 **1, Pass on buying a beverage. **If you’re out to eat, it’s customary to purchase some sort of drink to go with your lunch. Consider skipping the drink and just having a glass of water. You’ll have a few dollars, and water is very good for you.
 
