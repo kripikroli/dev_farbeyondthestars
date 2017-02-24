@@ -71,7 +71,7 @@ writing about. However, be mindful of what your readers need. Mine need
 **cyborgs** right now, your readers might be in a different place than mine
 are.
 
-Required reading on [how **cyborgs** are using intuitive back channel #ibc by
-Jan Stewart](http://janstewart.com.au/ibc).
+Required reading on how **cyborgs** are using intuitive back channel #ibc by
+Jan Stewart.
 
 Everett
