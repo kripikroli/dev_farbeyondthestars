@@ -1,5 +1,5 @@
 ---
-title: How to Liberate Your Email with Inbox Sub-Zero
+title: How to Liberate Your Email with Inbox Sub-Zero - Far Beyond The Stars
 ---
 
 One of the most important changes you can make in your life, to reclaim your
