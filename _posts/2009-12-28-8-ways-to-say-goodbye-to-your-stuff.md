@@ -1,5 +1,5 @@
 ---
-title: 8 Ways to Say Goodbye (to your stuff)
+title: 8 Ways to Say Goodbye  - Far Beyond The Stars
 ---
 
 I know how hard it can be to make the decision to give up material
