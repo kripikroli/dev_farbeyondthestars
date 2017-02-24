@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joshua Becker On Inside Out Simplicity
+title: Joshua Becker On Inside Out Simplicity - Far Beyond The Stars
 published: true
 ---
 
