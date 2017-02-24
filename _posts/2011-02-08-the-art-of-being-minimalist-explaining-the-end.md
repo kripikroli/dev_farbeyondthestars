@@ -1,5 +1,5 @@
 ---
-title: The Art of Being Minimalist (explaining the end)
+title: The Art of Being Minimalist (explaining the end) - Far Beyond The Stars
 ---
 
 Information is flowing faster.
