@@ -15,7 +15,7 @@ make it with reputation, showmanship, and publicity.
 
 But, it’s really hard to fake the fact that you can’t do your dishes.
 
-**Those dishes are right there in the sink and they are dirty.**
+<h2>Those dishes are right there in the sink and they are dirty.</h2>
 
 I know this because I’ve lived with a lot of people in the past. At one point
 I was living with ten people in Brooklyn, in a huge old school house that was
@@ -36,14 +36,14 @@ seriously. I do believe doing the dishes is beneficial, but I got a little
 carried away in how I explained things. Please forgive the slightly humor that
 attempted poorly to employ.
 
-**People who do their dishes immediately after eating are:**
+<h2>People who do their dishes immediately after eating are:</h2>
 
   * Generally happier
   * Accomplish more with their lives
   * Are less overwhelmed by life
   * Make more money
 
-**People who don’t do their dishes are:**
+<h2>People who don’t do their dishes are:</h2>
 
   * Constantly struggling to keep up
   * Have trouble dealing with clutter in their lives
@@ -67,7 +67,7 @@ minimalist life. If you adopt the habit of taking personal responsibility for
 the mess you create after every meal, this important habit will carry over in
 to other aspects of your life.
 
-**The reason that dish washing has such a profound effect on character.**
+<h2>The reason that dish washing has such a profound effect on character.</h2>
 
 Doing dishes is a basic habit that crosses into many other areas of your life.
 Chances are, if you can’t do dishes, you also can’t clean out your closet, or
@@ -82,7 +82,7 @@ immediately after every meal. If that seems like an impossible task, try doing
 your dishes before you go to bed. That being said, I’d like you to gradually
 work up the ability to clean your dishes within fifteen minutes of eating.
 
-**How to do dishes to create a more focused minimalist life.**
+<h2>How to do dishes to create a more focused minimalist life.</h2>
 
   1. **Make the decision now to start doing your dishes after every meal.** This is the most important step, don’t let yourself off the hook. Take the time to do the dishes now, and you won’t have to do them later.
   2. **Take pride in doing other people’s dishes.** When you live with other people, take pride in doing the dishes for them. Some people insist on spending hours if their lives arguing over who is going to do the dishes, but this is counter-productive. The best way to encourage a person you live with to do their dishes is to take initiative and do all of the dishes in the sink. Eventually they will recognize the burden they’ve put on you and begin to do their own dishes. This will make your shared living space much more enjoyable.
