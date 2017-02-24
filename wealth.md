@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Wealth
+title: Wealth - Far Beyond The Stars
+description: Wealth - Far Beyond The Stars
 author: Far Beyond The Stars - Wealth
 authorurl: https://www.farbeyondthestars.com/wealth
 published: true
