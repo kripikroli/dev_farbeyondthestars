@@ -1,5 +1,5 @@
 ---
-title: The Deepest Darkest Secret of Everett Bogue
+title: The Deepest Darkest Secret of Everett Bogue - Far Beyond The Stars
 ---
 
 _January 23rd 2011, Boulder CO. 7:44am, Trident Coffee._
