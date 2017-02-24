@@ -1,5 +1,5 @@
 ---
-title: Superhumans Vs. Drones - How to Achieve Complete Autonomy
+title: Superhumans Vs. Drones - How to Achieve Complete Autonomy - Far Beyond The Stars
 ---
 
 When people meet me, they instantly observe that I have achieved an
