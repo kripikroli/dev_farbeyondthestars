@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Contact Everett Bogue
+title: Contact Everett Bogue - Far Beyond The Stars
 published: true
 ---
 
