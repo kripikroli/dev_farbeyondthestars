@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minimalist yoga | How to learn the basics and do yoga independently for free
+title: Minimalist yoga | How to learn the basics and do yoga independently for free - Far Beyond The Stars
 published: true
 ---
 
