@@ -1,5 +1,5 @@
 ---
-title: Time Machines, Cyborgs, and the Evolution of Minimalism
+title: Time Machines, Cyborgs, and the Evolution of Minimalism - Far Beyond The Stars
 ---
 
 _January 21st 2011. Boulder, CO. _
