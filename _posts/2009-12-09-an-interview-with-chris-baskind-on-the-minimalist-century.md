@@ -1,5 +1,5 @@
 ---
-title: An Interview with Chris Baskind on The Minimalist Century
+title: An Interview with Chris Baskind on The Minimalist Century - Far Beyond The Stars
 ---
 
 This week I spoke with Chris Baskind. Chris is the director of web operations at Vida
