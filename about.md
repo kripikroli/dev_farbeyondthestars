@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About Far Beyond The Stars where the dreamer becomes the dream
+title: About - Far Beyond The Stars
+description: About - Far Beyond The Stars
 permalink: /about/
 ---
 
