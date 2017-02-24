@@ -1,5 +1,5 @@
 ---
-title: 5 Simple Methods to Be More Minimalist in 15 Minutes
+title: 5 Simple Methods to Be More Minimalist in 15 Minutes - Far Beyond The Stars
 ---
 
 I recently spoke to a reader who was thoroughly overwhelmed with the idea of
