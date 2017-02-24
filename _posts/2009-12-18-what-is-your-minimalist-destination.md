@@ -1,6 +1,5 @@
 ---
-title: What is Your Minimalist Destination?
-# is this post useful? it seems to be half advice half self-advertisement.
+title: What is Your Minimalist Destination? - Far Beyond The Stars
 ---
 
 Being minimalist is having the flexibility to do what you want, when you wish
