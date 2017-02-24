@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Minimalist Workday?
+title: What is Minimalist Workday? - Far Beyond The Stars
 published: true
 ---
 
