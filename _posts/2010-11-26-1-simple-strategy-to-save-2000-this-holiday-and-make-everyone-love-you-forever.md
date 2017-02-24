@@ -62,7 +62,7 @@ Freedom.
 
 One more time: **the best gift anyone can get for Christmas is freedom**. Why?
 
-Because the #**1** most valuable commodity in the world is freedom. The
+Because the **1** most valuable commodity in the world is freedom. The
 ability to live on your own terms, doing what **you** want to do with your
 life.
 
