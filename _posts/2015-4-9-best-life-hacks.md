@@ -5,7 +5,7 @@ description: Best Life Hacks - Far Beyond The Stars
 published: true
 ---
 
-<center><img src="/images/vulcan-salute.png"></center>
+<center><img src="/images/vulcan-salute.png" alt="Best Life Hacks"/></center>
 <p>This post does NOT constitute medical advice and is only a summary of other information and I highly recommend you meet with Dr. Parks to discuss your personal situation and get the ~$800 test done where you will get biomarkers tested and find out the length of your telomeres and <b>most importantly</b> the percentage of critically short telomeres.
 
 <p><b>Morning</b> - Take one gram of <a href="http://www.runtogold.com/lionsmanemushroom">Lion's Mane Mushroom</a> and 500mg of <a href="http://www.runtogold.com/acetylcarnitine">Acetyl Carnitine</a>.
@@ -25,7 +25,7 @@ published: true
 <p>Also, it appears that starting to take it when younger results in better gains; most likely because you have more and better genetic material and integrity to work with.
 <h2>TA-65, Generics and Bioavailability</h2>
 <p>There is a post linked to later but this graphic shows why TA-65 is so superior of a value relative to the other products available.
-<center><img src="/images/ta-65-bioavailability.png"></center>
+<center><img src="/images/ta-65-bioavailability.png" alt="Best Life Hacks"></center>
 <h2>How Can You Tell It Is Working?</h2>
 <p><b>First</b>, one of the most common heuristics is an increase in the quality and vividness of your dreams. [Note: If you take Vitamin B it will also likely have this effect.]
 <p><b>Second</b>, it seems that many people can feel a warm sensation, similar to what one gets after exercise, after taking it and it has intensity and lasts in a way somewhat correlated with the bioavailability graph.
@@ -42,7 +42,7 @@ published: true
 <p>There are lots of things you can do to decrease the rate of telomere erosion. Why pay so much to lengthen when you could pay less to prevent the shortening in the first place?
 <p>Quality sleep, diet, lifestyle, meditation (<a href="http://www.runtogold.com/museheadband">Muse Headband</a>), cortisol regulation (<a href="http://www.runtogold.com/cortisolmanager">Cortisol Manager</a> and the free book <a href="http://cortisolconnection.com/">The Cortisol Connection</a>) and exercise are some of the areas where I think major gains can be made relatively easily to prevent erosion of telomeres with the highest ROI in terms of convenience, time and money.
 <p>Another very interesting tool for hacking your sleep is an <a href="http://www.runtogold.com/earthingsheet">earthing sheet</a> which grounds you to the earth. It can have an interesting effect on regulating your cortisol. A great aspect is that after the initial purchase there are no upkeep costs in terms of time, additional orders, etc. and each sheet will last at least about 100 wash cycles.
-<center><img src="/images/earthing-sheet-cortisol.png"></center>
+<center><img src="/images/earthing-sheet-cortisol.png" alt="Best Life Hacks"></center>
 <h2>Teeth Health</h2>
 <p><a href="http://www.runtogold.com/smartash">Smart Ash</a>, <a href="http://www.runtogold.com/desertessencetoothpaste">Desert Essence toothpaste</a> and <a href="http://www.runtogold.com/bambootoothbrush">bamboo toothbrushes</a> are all amazing. If you use Smart Ash then you may consider swallowing all of the activated charcoal instead of just spitting it out as it is a great detoxifier.
 <h2>The Power of the Mind</h2>
