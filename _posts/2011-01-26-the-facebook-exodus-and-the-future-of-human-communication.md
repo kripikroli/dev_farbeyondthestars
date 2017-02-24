@@ -93,7 +93,7 @@ their site?
 
 **4\. We need to create and own our virtual reality worlds.**
 
-[Gwen](http://www.gwenbell.com/) pointed me in the direction of this
+Gwen pointed me in the direction of this
 [beautiful talk by Jonathan Harris](http://www.aiga.org/content.cfm/video-
 gain-2010-harris) about the reality of the Internet today. I want to make out
 with him (we can invite Gwen too) after the talk, you will too after you watch
