@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Best Life Hacks
+description: Best Life Hacks
 published: true
 ---
 
