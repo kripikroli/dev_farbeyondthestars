@@ -1,5 +1,5 @@
 ---
-title: How Blogging Evolves(ed)
+title: How Blogging Evolves - Far Beyond The Stars
 ---
 
 **Blogging** is in transition.
