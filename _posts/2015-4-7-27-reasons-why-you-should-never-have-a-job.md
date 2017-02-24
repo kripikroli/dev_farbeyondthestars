@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 27 reasons why you should never have a job
+title: 27 reasons why you should never have a job - Far Beyond The Stars
 published: true
 ---
 
