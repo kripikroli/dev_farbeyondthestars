@@ -1,5 +1,5 @@
 ---
-title: On Wandering Angels and The Future of Human Evolutionary Freedom
+title: On Wandering Angels and The Future of Human Evolutionary Freedom - Far Beyond The Stars
 ---
 
 A few days ago (Dec 2010) I met up with one of the world’s **wandering**
