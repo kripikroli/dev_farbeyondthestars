@@ -1,5 +1,5 @@
 ---
-title: Minimalist Blogging 101 - How to Blog Less With More Impact
+title: Minimalist Blogging 101 - How to Blog Less With More Impact - Far Beyond The Stars
 ---
 
 A few days ago I had a conversation with a friend who recently started a blog.
