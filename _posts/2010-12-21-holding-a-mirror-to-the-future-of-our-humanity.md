@@ -1,5 +1,5 @@
 ---
-title: Holding a Mirror to the Future of Our Humanity
+title: Holding a Mirror to the Future of Our Humanity - Far Beyond The Stars
 ---
 
 Lately I’ve been asking this question daily:
