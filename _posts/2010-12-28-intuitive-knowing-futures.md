@@ -1,5 +1,5 @@
 ---
-title: Intuitive Knowing Futures
+title: Intuitive Knowing Futures - Far Beyond The Stars
 ---
 
 One of the most powerful things you can learn from yoga is the ability to
