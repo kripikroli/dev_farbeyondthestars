@@ -1,5 +1,5 @@
 ---
-title: On Embracing Uncertainty (in an accelerating world)
+title: On Embracing Uncertainty  - Far Beyond The Stars
 ---
 
 There’s been a lot of **uncertainty** in my life lately, which has made me
