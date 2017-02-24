@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Best Life Hacks
-description: Best Life Hacks
+title: Best Life Hacks - Far Beyond The Stars
+description: Best Life Hacks - Far Beyond The Stars
 published: true
 ---
 
