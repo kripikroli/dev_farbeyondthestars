@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Relationships
+title: Relationships - Far Beyond The Stars
+description: Relationships - Far Beyond The Stars
 author: Far Beyond The Stars - Relationships
 authorurl: https://www.farbeyondthestars.com/relationships
 published: true
