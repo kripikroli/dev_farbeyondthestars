@@ -1,5 +1,5 @@
 ---
-title: 1 Simple Strategy to Save $2,000 this Holiday and Make Everyone Love You Forever
+title: 1 Simple Strategy to Save USD 2,000
 ---
 
 This post is going to go viral, so if **you**’re here for the first time let
@@ -12,11 +12,11 @@ Why? Because **you** think that buying people things for Christmas will
 
 **You** think this for a lot of reasons, here are a few of them.
 
-  1. **You**’ve been giving and getting presents at Christmas since the dawn of time. It must be right, right?
+  1. **You**'ve been giving and getting presents at Christmas since the dawn of time. It must be right, right?
   2. **You** watched TV and saw all of the happy faces around the Christmas tree in the Coca Cola commercials, in the car commercials, in the clothing commercials. Going to to the mall to buy things for people must be what Christmas is all about, right?
   3. **You** haven’t followed up as to where the stuff that **you** bought **everyone** for Christmas actually ended up by the time New Years came around (hint: the closet, where no one has to look at what **you** gave them.)
 
-**Why your reality is broken.**
+<h2>Why your reality is broken.</h2>
 
 The **simple** fact is that your mind has been manipulated by mega-
 corporations into the mess that it is now. **You**’ve been bombarded by
@@ -107,7 +107,7 @@ I’d like to offer some resources in order to **save** a shit-ton of money, as
 well as **make** people want to sit next to **you** at the dining room table
 at Christmas.
 
-****1**. Use your resources to help someone achieve their dreams.**
+1. Use your resources to help someone achieve their dreams.
 
 All of your friends and family are trying to achieve something (probably
 freedom, see above.) If **you** have the resources to spend tons of money on
@@ -123,7 +123,7 @@ or family who need help, consider investing your money in [Kiva
 International](http://www.kiva.org/) so that entrepreneurs in 3rd world
 countries can help themselves and their families this **holiday** season.
 
-**2\. Two inexpensive and under-appreciated gifts.**
+2. Two inexpensive and under-appreciated gifts.
 
 There are two things that can **make** Christmas dinner better. **1**. Hugs,
 which are COMPLETELY FREE, and so infrequently given. 2. More wine. If **you**
@@ -132,7 +132,7 @@ absolutely must buy something, use your money to get something that
 try to figure out what the socially acceptable length of time before they can
 **make** another trip to Salvation Army is.
 
-**3\. Sometimes the best gift **you** can give is to yourself.**
+3\. Sometimes the best gift **you** can give is to yourself.
 
 What will **make** your life better? What will **make** **you** happier? I
 know this is a hard question to ask yourself. The answer is almost certainly
