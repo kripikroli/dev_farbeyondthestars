@@ -7,7 +7,7 @@ published: true
 
 <center><img src="/images/vulcan-salute.png"></center>
 <p>This post does NOT constitute medical advice and is only a summary of other information and I highly recommend you meet with Dr. Parks to discuss your personal situation and get the ~$800 test done where you will get biomarkers tested and find out the length of your telomeres and <b>most importantly</b> the percentage of critically short telomeres.
-<h2>TL;DR</h2>
+
 <p><b>Morning</b> - Take one gram of <a href="http://www.runtogold.com/lionsmanemushroom">Lion's Mane Mushroom</a> and 500mg of <a href="http://www.runtogold.com/acetylcarnitine">Acetyl Carnitine</a>.
 <p><b>Before Bed</b> - Take one gram of <a href="http://www.runtogold.com/lionsmanemushroom">Lion's Mane Mushroom</a>, 500mg of <a href="http://www.runtogold.com/acetylcarnitine">Acetyl Carnitine</a>, four <a href="http://www.runtogold.com/ta65">TA-65 capsules</a>, a small fatty snack, one <a href="http://www.runtogold.com/cortisolmanager">Cortisol Manager</a> and one <a href="http://www.runtogold.com/vitaminb">Vitamin B stress complex</a>.
 <p>You can buy on Amazon and if you go through this link then I will earn a commission so next time we get dinner then perhaps I will pay. Thanks!
