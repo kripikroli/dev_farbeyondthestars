@@ -1,5 +1,5 @@
 ---
-title: How to Achieve Minimalist Freedom - Two Methods for Less Stuff
+title: How to Achieve Minimalist Freedom  - Far Beyond The Stars
 ---
 
 My backpack
