@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Destroy Your Past Lives (starting over)
+title: How to Destroy Your Past Lives  - Far Beyond The Stars
 published: true
 ---
 
