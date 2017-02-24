@@ -28,7 +28,7 @@ published: true
 <p>Yes, not having a job isn’t for everyone. Some people enjoy being told what to do, and other people have jobs they really love. I wouldn’t want anyone to leave a situation that they really enjoyed simply because of an article I wrote.</p>
 <p>The most important fact to consider is that not having a job isn’t easy. Starting a minimalist business with no-overhead that runs itself can be challenging. It might involve long hours in the beginning, and relies on individual creativity to succeed. No one can hand you the magic bullet that will tell you how to create income that doesn’t come from having a job.</p>
 <p>Ultimately you need to trust yourself, and follow the path that feels right for you.</p>
-<h4>HERE ARE 27 REASONS WHY YOU SHOULD NEVER HAVE A JOB.</h4>
+<h2>HHere are 27 reasons why you should never have a job</h2>
 <p><strong>1. Financial security.</strong></p>
 <p>Creating your own business can be much more financially secure than having a job. At a job, all of your income is in one basket, which is the farthest thing from financial security that I can think of. Many people with jobs live in endless fear of losing them, because if they did the money just stops coming. If you screw up, or say the wrong thing, poof! There goes all of your income, your benefits, and sometimes your social life all at once.</p>
 <p><strong>2. Diversified income streams.</strong></p>
