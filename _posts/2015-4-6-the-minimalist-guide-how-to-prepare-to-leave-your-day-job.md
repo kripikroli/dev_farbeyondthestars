@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Minimalist Guide | How To Prepare To Leave Your Day Job
+title: The Minimalist Guide | How To Prepare To Leave Your Day Job - Far Beyond The Stars
 published: true
 ---
 
