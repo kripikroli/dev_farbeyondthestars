@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to create an A-list minimalist blog in less than 6-months
+title: How to create an A-list minimalist blog in less than 6-months - Far Beyond The Stars
 published: true
 ---
 
