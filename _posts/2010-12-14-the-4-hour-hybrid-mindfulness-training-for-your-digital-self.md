@@ -1,5 +1,5 @@
 ---
-title: The 4-Hour Hybrid - Mindfulness Training for Your Digital Self
+title: The 4-Hour Hybrid - Mindfulness Training for Your Digital Self - Far Beyond The Stars
 ---
 
 Throughout all of history, all mediums, all languages there is a common
