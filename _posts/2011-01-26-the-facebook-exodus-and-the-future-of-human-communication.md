@@ -1,5 +1,5 @@
 ---
-title: The Facebook Exodus and the Future of Human Communication
+title: The Facebook Exodus and the Future of Human Communication - Far Beyond The Stars
 ---
 
 _Boulder, CO. January 26th 2011. _
