@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Experiences
+title: Experiences - Far Beyond The Stars
+description: Experiences - Far Beyond The Stars
 author: Far Beyond The Stars - Experiences
 authorurl: https://www.farbeyondthestars.com/experiences
 published: true
