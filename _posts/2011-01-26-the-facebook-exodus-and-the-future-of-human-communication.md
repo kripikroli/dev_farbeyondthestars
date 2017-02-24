@@ -66,7 +66,7 @@ come back later! It all has to do with where my mind is focused on the work.
 
 Twitter collectives begin to develop their own languages and insider
 knowledge. with Twitter can even start learning how to
-[#ibc](http://janstewart.com.au/ibc), which is a pretty extraordinary
+#ibcc), which is a pretty extraordinary
 intuitive skill to master.
 
 **3\. Attention is a currency.**
