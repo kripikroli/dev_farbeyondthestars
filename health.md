@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Health
+title: Health - Far Beyond The Stars
+description: Health - Far Beyond The Stars
 author: Far Beyond The Stars - Health
 authorurl: https://www.farbeyondthestars.com/health
 published: true
